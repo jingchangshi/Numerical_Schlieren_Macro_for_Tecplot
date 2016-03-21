@@ -3,7 +3,7 @@
 ## 说明
 
 + 用于`Tecplot`软件中绘制流场的数值纹影图，与激波相关。
-+ 此代码基于[Note on Numerical Schlieren](http://desperadoshi.github.io/Blog/Note_on_Numerical_Schlieren.html)
++ 此代码基于[Note on Numerical Schlieren](http://desperadoshi.leanote.com/post/Note-on-Numerical-Schlieren)
 
 ## 代码
 
